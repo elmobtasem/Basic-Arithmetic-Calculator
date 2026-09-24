@@ -1,5 +1,5 @@
 print("|Welcome to Calculator App|\n")
-print("*****BY:Ibrahim Mohamed*****\n")
+print("*****BY:Ibrahim Amer*****\n")
 num1= float(input("First Number : "))
 num2= float(input("Second Number : "))
 
